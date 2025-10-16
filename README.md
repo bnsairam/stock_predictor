@@ -10,7 +10,7 @@ This project demonstrates data fetching, feature engineering, model training, ev
 
 ## 🔗 Repository  
 
-👉 [View on GitHub](https://github.com/bnsairam/stock_price_predictor/blob/main/stock_predictor.py)
+👉 [View on GitHub](https://github.com/bnsairam/stock_predictor/blob/main/stock_predictor.py)
 
 ---
 
