@@ -1,4 +1,4 @@
-# 💰 Stock Price Prediction using Python  
+# Stock Price Prediction using Python  
 
 **Author:** Your Name  
 **Last Updated:** October 2025  
